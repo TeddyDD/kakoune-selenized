@@ -11,6 +11,9 @@ Ported variants:
 
 ## Screenshot
 
+![light theme](./screenshots/light.png)
+![dark theme](./screenshots/dark.png)
+
 ## Installation
 
 Only last stable release of Kakoune is supported (see changelog).
