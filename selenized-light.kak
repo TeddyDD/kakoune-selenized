@@ -33,50 +33,55 @@ br_violet='rgb:825dc0'
 
 ## code
 echo "
-    set-face global value ${orange}+b
-    set-face global type ${br_orange}
-    set-face global variable ${magenta}
-    set-face global module ${green}
-    set-face global function ${br_cyan}
-    set-face global string ${green}
-    set-face global keyword ${violet}+b
-    set-face global operator ${br_cyan}
-    set-face global attribute ${orange}
-    set-face global comment ${br_black}
-    set-face global meta ${br_orange}
-    set-face global builtin ${fg}+b
+set-face global value ${orange}+b
+set-face global type ${br_orange}
+set-face global variable ${magenta}
+set-face global module ${green}
+set-face global function ${br_cyan}
+set-face global string ${green}
+set-face global keyword ${violet}+b
+set-face global operator ${br_cyan}
+set-face global attribute ${orange}
+set-face global comment ${br_black}
+set-face global meta ${br_orange}
+set-face global builtin ${fg}+b
 "
 
 ## markup
 echo "
-    set-face global title ${blue}+u
-    set-face global header ${br_cyan}
-    set-face global bold ${br_orange}+b
-    set-face global italic ${orange}+i
-    set-face global mono ${green}
-    set-face global block ${orange}
-    set-face global link $blue
-    set-face global bullet ${br_magenta}
-    set-face global list ${magenta}
+set-face global title ${blue}+u
+set-face global header ${br_cyan}
+set-face global bold ${br_orange}+b
+set-face global italic ${orange}+i
+set-face global mono ${green}
+set-face global block ${orange}
+set-face global link $blue
+set-face global bullet ${br_magenta}
+set-face global list ${magenta}
 "
 
 echo "
-    set-face global Default ${fg},${bg}
-    set-face global PrimarySelection ${fg},$br_black+i
-    set-face global SecondarySelection $black,$white
-    set-face global PrimaryCursor $black,$red+b
-    set-face global SecondaryCursor $bg,$br_cyan+i
-    set-face global MatchingChar $black,$blue
-    set-face global Search $br_white,$green
-    set-face global CurrentWord $white,$blue
+set-face global Default ${br_white},${bg}
+set-face global PrimarySelection ${fg},$br_black+i
+set-face global SecondarySelection $black,$white
+set-face global PrimaryCursor $black,$red+b
+set-face global SecondaryCursor $bg,$br_cyan+i
+set-face global MatchingChar $black,$blue
+set-face global Search $br_white,$green
+set-face global CurrentWord $white,$blue
 
-    # when item focused in menu
-    set-face global MenuForeground $orange,$br_black+d
-    # default bottom menu and autocomplete
-    set-face global MenuBackground $fg,$black
+# when item focused in menu
+set-face global MenuForeground $orange,$br_black+d
+# default bottom menu and autocomplete
+set-face global MenuBackground $fg,$black
 
-    set-face global Information $yellow,$black
-    set-face global Error $black,$red
+set-face global Information $yellow,$black
+set-face global Error $black,$red
+
+set-face global BufferPadding $black,$black
+set-face global StatusLine $fg,$br_black
+set-face global StatusLineInfo $blue,$br_black
+
 "
 
 }
