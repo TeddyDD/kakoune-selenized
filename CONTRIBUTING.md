@@ -1,6 +1,6 @@
 # Contributing
 
-Open an issue before working on non-trivial changes.
+Please open an issue before working on non-trivial changes.
 
 The preferred way to contribute would be through GitHub pull requests. Make
 sure to update changelog.
