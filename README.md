@@ -15,7 +15,7 @@ Ported variants:
 
 Only last stable release of Kakoune is supported (see changelog).
 
-### Plug.kak
+### [Plug.kak]
 
 ```kak
 plug "https://github.com/TeddyDD/kakoune-selenized" theme
@@ -34,3 +34,4 @@ command.
 
 [Selenized]: https://github.com/jan-warchol/selenized
 [Kakoune]: http://kakoune.org/
+[Plug.kak]: https://github.com/andreyorst/plug.kak
