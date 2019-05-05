@@ -17,7 +17,14 @@ Only last stable release of Kakoune is supported (see changelog).
 
 ### Plug.kak
 
+```kak
+plug "https://github.com/TeddyDD/kakoune-selenized" theme
+```
+
 ### Manual
+
+Copy themes you like to `~/.config/kak/colors/` and load with `:colorscheme`
+command.
 
 ## Changelog
 
