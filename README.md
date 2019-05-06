@@ -21,7 +21,7 @@ Only last stable release of Kakoune is supported (see changelog).
 ### [Plug.kak]
 
 ```kak
-plug "https://github.com/TeddyDD/kakoune-selenized" theme
+plug "TeddyDD/kakoune-selenized" domain "GitHub.com" theme
 ```
 
 ### Manual
