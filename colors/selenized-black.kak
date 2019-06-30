@@ -57,10 +57,10 @@ set-face global bullet ${br_magenta}
 set-face global list ${magenta}
 
 set-face global Default ${fg},${bg}
-set-face global PrimarySelection ${fg},$br_black+i
-set-face global SecondarySelection $black,$white
-set-face global PrimaryCursor $black,$br_cyan+b
-set-face global SecondaryCursor $bg,$red+i
+set-face global PrimarySelection $black,$white
+set-face global SecondarySelection ${fg},$br_black+i
+set-face global PrimaryCursor $bg,$red+b
+set-face global SecondaryCursor $black,$br_cyan+i
 set-face global MatchingChar $black,$blue
 set-face global Search $br_white,$green
 set-face global CurrentWord $white,$blue
