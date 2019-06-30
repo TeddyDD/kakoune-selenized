@@ -33,6 +33,8 @@ command.
 
 - 0.1 2019-05-05:
     - **Kakoune v2019.01.20**
+- 0.2 2019-06-30:
+    - make primary selection brighter in black variant
 
 
 [Selenized]: https://github.com/jan-warchol/selenized
