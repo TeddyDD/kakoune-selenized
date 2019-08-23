@@ -73,6 +73,7 @@ set-face global Error $black,$br_red
 
 set-face global BufferPadding $black,$black
 set-face global StatusLine $fg,$black
+set-face global StatusLineInfo $yellow,$black
 "
 
 }
