@@ -34,8 +34,11 @@ command.
 - 0.1 2019-05-05:
     - **Kakoune v2019.01.20**
 - 0.2 2019-06-30:
-    - make primary selection brighter in black variant
-
+    - _CHANGE_ make primary selection brighter in black variant
+- 0.3 2019-11-05:
+    - **Kakoune v2019.07.01**
+    - _CHANGE_ set colors for following faces: Whitespace, LineNumbers,
+      LineNumberCursor, StatusLineInfo
 
 [Selenized]: https://github.com/jan-warchol/selenized
 [Kakoune]: http://kakoune.org/
