@@ -79,9 +79,12 @@ set-face global Information $yellow,$black
 set-face global Error $black,$red
 
 set-face global BufferPadding $black,$black
+set-face global Whitespace $br_black
 set-face global StatusLine $fg,$br_black
 set-face global StatusLineInfo $blue,$br_black
 
+set-face global LineNumbers default
+set-face global LineNumberCursor default,default+r
 "
 
 }
