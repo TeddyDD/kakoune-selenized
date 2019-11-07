@@ -13,6 +13,8 @@ Ported variants:
 
 ![light theme](./screenshots/light.png)
 ![dark theme](./screenshots/dark.png)
+![white theme](./screenshots/white.png)
+![black theme](./screenshots/black.png)
 
 ## Installation
 
@@ -39,6 +41,8 @@ command.
     - **Kakoune v2019.07.01**
     - _CHANGE_ set colors for following faces: Whitespace, LineNumbers,
       LineNumberCursor, StatusLineInfo
+- 1.0 2019-11-07:
+    - _ADD_ white and dark variants
 
 [Selenized]: https://github.com/jan-warchol/selenized
 [Kakoune]: http://kakoune.org/
