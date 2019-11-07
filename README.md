@@ -5,9 +5,9 @@ Port of [Selenized] color theme for [Kakoune] text editor.
 Ported variants:
 
 - [x] Selenized light
-- [ ] Selenized dark
+- [x] Selenized dark
 - [x] Selenized black
-- [ ] Selenized white
+- [x] Selenized white
 
 ## Screenshot
 
