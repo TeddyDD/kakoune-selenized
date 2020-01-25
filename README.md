@@ -1,4 +1,4 @@
-# Kakoune Selenized
+# Kakoune Selenized ![version](https://img.shields.io/github/v/tag/teddydd/kakoune-selenized?label=version&style=flat-square)
 
 Port of [Selenized] color theme for [Kakoune] text editor.
 
